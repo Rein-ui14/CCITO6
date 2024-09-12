@@ -53,14 +53,14 @@ section{
 }
 
 #services .btn-brand:hover{
-    color: black !important;
-    border-color: black !important;
+    color: rgb(24, 229, 208) !important;
+    border-color: rgb(237, 218, 218) !important;
 }
 
 
 
 .card:hover{
-background-color: black;
+background-color: rgb(57, 214, 9);
 }
 
 .card:hover .card-title,
@@ -72,12 +72,12 @@ background-color: black;
 #services h2{
     font-size: 55px;
     font-weight: 900;
-    color: rgb(6, 6, 6);
+    color: rgb(18, 191, 36);
     -webkit-text-stroke-width: 3px;
     -webkit-text-stroke-color: black;
 }
 
 #services{
-    background-color: #FFF;
+    background-color: #ead707;
 }
 
