@@ -33,7 +33,7 @@ section{
 #about h2{
     font-size:  55px;
     font-weight: 900;
-    color:rgb(183, 9, 9) !important;
+    color:rgb(18, 191, 36) !important;
     -webkit-text-stroke-width:  2px;
     -webkit-text-stroke-color: black;
 
@@ -42,10 +42,10 @@ section{
 #about .btn-brand:hover{
     color: black !important;
     border-color: black !important;
-}
+}   
 
-#about{
-    background-color: rgb(255, 255, 255);
+#about{     
+    background-color: #8FBC8F;
 }
 .wawaw-wo{
     width: 40%;
@@ -78,6 +78,6 @@ background-color: rgb(57, 214, 9);
 }
 
 #services{
-    background-color: #a18e13be;
+    background-color: #8FBC8F;
 }
 
