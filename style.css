@@ -81,3 +81,76 @@ background-color: #8B4513;
     background-color: #8FBC8F;
 }
 
+#cta{
+    height: 70vh;
+    background:linear-gradient(to right, hsla(108, 50%, 76%, 0.856), rgba(82, 192, 70, 0.315)), url('forest2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.testimonials img{
+    width: 75px;
+}
+.testimonials {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .testimonials:hover {
+    transform: translateY(-5px); /* Slight hover effect */
+  }
+  
+  .card-border {
+    border: 2px solid #4CAF50; /* Green border */
+    padding: 15px;
+    border-radius: 10px;
+  }
+  
+  .testimonials h3 {
+    font-size: 1.25rem;
+    margin: 0;
+  }
+  
+  .testimonials a {
+    font-size: 0.875rem;
+    color: #4CAF50; /* Matching link color with border */
+  }
+  
+  .testimonials p {
+    font-size: 1rem;
+    margin-top: 10px;
+    color: #555;
+  }
+  
+
+#faq{
+    background-color: #fafafa;
+}
+footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(57, 149, 57) ;
+}
+
+#footer ul.list-unstyled li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#footer ul.list-unstyled li:hover a {
+    color:  rgb(8, 47, 😎 );
+    
+}
+
+
+.btn-outline-light {
+    border-color: #FFF;
+    color: #FFF;
+    border-radius: 0;
+}
+
+
